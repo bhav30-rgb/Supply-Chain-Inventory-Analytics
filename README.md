@@ -1,4 +1,5 @@
 📦 UnoMart Inventory Analytics Case Study
+
 📌 Project Overview
 
 This project focuses on inventory analytics for UnoMart, a global e-commerce retailer expanding in India. The objective is to simulate real-world supply chain challenges, analyze stock movements across distribution centers (DCs), and provide data-driven recommendations for efficient inventory management.
